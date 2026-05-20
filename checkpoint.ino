@@ -1,3 +1,11 @@
+/*
+Lívia Laur – RM: 569017
+Rafael Dias – RM: 570504
+Lara Beatriz – RM: 572589
+Gustavo Pereira – RM: 570549
+Luca Baccari – RM: 569807
+*/
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <DHT.h>

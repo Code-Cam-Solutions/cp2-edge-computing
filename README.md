@@ -206,7 +206,7 @@ O sistema desenvolvido atende aos requisitos propostos, sendo capaz de monitorar
 Mesmo sendo um projeto fictício, ele representa uma solução realista de monitoramento ambiental, com leitura de dados, processamento e resposta automática por meio de alertas visuais e sonoros.
 
 ## 🎬 Vídeo do projeto implementado
-https://www.youtube.com/watch?v=CwjxhcOjHvU&t=16s
+https://www.youtube.com/watch?v=CwjxhcOjHvU&t=0s
 
 ## 👨‍💻 Participantes
 ## 🎓 1ESPW - FIAP
