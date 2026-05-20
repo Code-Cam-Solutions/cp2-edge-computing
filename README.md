@@ -181,6 +181,24 @@ Umidade: 62.5 %
 
 ---
 
+## 🔌 Dependências
+
+O projeto utiliza algumas bibliotecas para facilitar a comunicação com os componentes e simplificar o desenvolvimento.
+
+### 📚 Bibliotecas Utilizadas
+
+- **Wire.h**  
+Responsável pela comunicação I2C, utilizada para permitir a conexão entre o Arduino e o display LCD.
+
+- **LiquidCrystal_I2C.h**  
+Biblioteca utilizada para controlar o display LCD com interface I2C.  
+Ela permite exibir textos, posicionar o cursor e atualizar a tela de forma simples.
+
+- **DHT.h**  
+Biblioteca utilizada para leitura do sensor DHT22.  
+Esse sensor utiliza um protocolo específico de comunicação, e a biblioteca facilita a obtenção dos valores de temperatura e umidade.
+
+
 ## ⚠️ Dificuldades Encontradas
 
 Durante o desenvolvimento, foram enfrentadas algumas dificuldades importantes:
